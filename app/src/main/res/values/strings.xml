@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TrueCitizen</string>
+    <string name="questionDeclaration">Kenya got independence in 1963.</string>
+    <string name="tru">true</string>
+    <string name="falseText">false</string>
+    <string name="correctAnswer">That\'s correct</string>
+    <string name="wrongAnswer">That\'s incorrect</string>
+    <string name="question2">Nairobi is the capital city of kenya</string>
+    <string name="question3">Multiparty was introduced in 1994</string>
+    <string name="question4">Mathare is the biggest slam in Kenya</string>
+    <string name="question5">Kenya has a capitalist economy</string>
+    <string name="question6">Miguna is the Governor of Nyandarua</string>
+    <string name="next">Next Question</string>
+    <string name="previous">Previous Question</string>
+</resources>
